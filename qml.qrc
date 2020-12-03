@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Mockup.qml</file>
+        <file>GraphDisplay.qml</file>
+        <file>TimelineDisplay.qml</file>
+    </qresource>
+</RCC>
